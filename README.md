@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meir1274
 
-- 👀 I’m interested in jave
+- 👀 I’m interested in java
 
 - 📫 How to reach me meir1274@gmail.com
 
